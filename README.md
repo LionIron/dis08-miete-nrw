@@ -45,3 +45,9 @@ Raw data is stored locally and excluded from version control.
 
 All tools and methods are covered in the DIS08 lectures and lab notebooks.
 
+### Hinweis zu Web Scraping
+
+Für dieses Projekt wurde kein eigenes Web Scraping durchgeführt,
+da ein umfangreicher und gut dokumentierter Open-Data-Datensatz
+verwendet wurde. Die Datenbeschaffung folgt damit dem im Kurs
+vorgestellten Open-Data-Ansatz.
