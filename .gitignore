@@ -1,7 +1,15 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
 *.pyc
+
+# OS
 .DS_Store
 
-# data (raw files not tracked)
+# Data (raw files should not be pushed)
 data/raw/*.csv
+data/raw/*.zip
+data/raw/*.json
+
