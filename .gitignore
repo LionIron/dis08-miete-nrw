@@ -17,3 +17,5 @@ data/raw/*.json
 # Office temp files
 ~$*.xlsx
 ~$*.xls
+~.xlsx
+*.ipynb_checkpoints/
